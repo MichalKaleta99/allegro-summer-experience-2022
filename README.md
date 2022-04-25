@@ -6,11 +6,19 @@ My email in recruitment process: thekalkam@gmail.com
 
 W kodzie użyłem tylko i wyłącznie jednej biblioteki nazwanej PyGithub.
 
-Aby ją zainstalować należy wpisać:
+Można ją zainstalować na kilka sposobów:
+
+1)
 
 pip install PyGithub
 
-lub skopiować z githuba - https://github.com/PyGithub/PyGithub
+2)
+Skopiować bezpośrednio z githuba - https://github.com/PyGithub/PyGithub
+
+3)
+Jeśli korzystamy ze środowiska PyCharm - nawigować się w zakładkę "Python Packages"(podświetlona ciemnym kolorem na zrzucie ekranu), następnie w wyszukiwarce wpisać "PyGithub", nacisnąć na wynik z nazwą odpowiadającą bibliotece, a następnie zainstalować za pomocą przycisku install (zaznaczony na czerwono).
+![image](https://user-images.githubusercontent.com/102754595/165184043-6bacb29a-270e-422b-8aa7-1c92c518c58a.png)
+
 
 # uruchomienie programu
 
