@@ -21,6 +21,8 @@ Jeśli korzystamy ze środowiska PyCharm - nawigować się w zakładkę "Python 
 
 # Generowanie githubowego tokenu potrzebnego do autoryzowanego połączenia z Github API
 
+Podając token uzyskujemy połączenie autoryzowane, które pozwala na wysyłanie większej ilości requestów - przykładowo bez podawania tokenu byłem w stanie odczytać ~30 repozytoriów, po czym środowisko github zwracało mi błąd. Po wprowadzeniu tokenu jesteśmy w stanie odczytać nawet 4800 repozytoriów (według mojego researchu jest to największa ilość repozytoriów na pojedynczym profilu - profil Microsoft)
+
 Jeśli takowego tokenu nie posiadamy (będzie on potrzebny podczas uruchamiania programu), to pod tym linkiem opisane jest jak go wygenerować - https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
 
 # Krótki opis działania programu
