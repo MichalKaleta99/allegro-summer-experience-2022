@@ -20,9 +20,9 @@ Jeśli korzystamy ze środowiska PyCharm - nawigować się w zakładkę "Python 
 ![image](https://user-images.githubusercontent.com/102754595/165184043-6bacb29a-270e-422b-8aa7-1c92c518c58a.png)
 
 
-# uruchomienie programu
+# Krótki opis działania programu
 
-Po uprzednim zainstalowaniu biblioteki PyGithub możemy uruchomić kod w naszym Pythonowym środowisku.
+Po uprzednim zainstalowaniu biblioteki PyGithub możemy uruchomić kod w naszym Pythonowym środowisku (zwyczajnie klikając przycisk "Run")
 
 Po uruchomieniu programu powinna wyskoczyć prośba o podanie Githubowego tokenu do połączenia się do Github API. Podając token uzyskujemy połączenie autoryzowane, które pozwala na wysyłanie większej ilości requestów - przykładowo bez podawania tokenu byłem w stanie odczytać ~30 repozytoriów, po czym środowisko github zwracało mi błąd. Po wprowadzeniu tokenu jesteśmy w stanie odczytać nawet 4800 repozytoriów (według mojego researchu jest to największa ilość repozytoriów na pojedynczym profilu - profil Microsoft)
 
