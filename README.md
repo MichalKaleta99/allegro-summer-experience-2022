@@ -9,7 +9,7 @@ W kodzie użyłem tylko i wyłącznie jednej biblioteki nazwanej PyGithub.
 Można ją zainstalować na kilka sposobów:
 
 1)
-
+Za pomocą komendy:
 pip install PyGithub
 
 2)
