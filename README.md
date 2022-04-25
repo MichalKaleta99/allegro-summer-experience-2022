@@ -1,2 +1,5 @@
-# allegro-summer-experience-2022
-Zadanie nr 3- Software Engineer
+My email in recruitment process: thekalkam@gmail.com
+
+--
+
+
