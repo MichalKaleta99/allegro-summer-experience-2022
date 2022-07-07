@@ -1,6 +1,4 @@
-My email in recruitment process: thekalkam@gmail.com
 
---
 
 # Biblioteki użyte w kodzie
 
